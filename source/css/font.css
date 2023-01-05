@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Noto+Serif+SC&display=swap");
+.markdown-body code,
+.markdown-body pre {
+  font-family: "JetBrains Mono", "Noto Serif SC", monospace !important;
+}
