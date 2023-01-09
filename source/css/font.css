@@ -3,3 +3,7 @@
 .markdown-body pre {
   font-family: "JetBrains Mono", "Noto Serif SC", monospace !important;
 }
+
+html, body {
+  text-align: justify;
+}
